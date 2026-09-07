@@ -1,161 +1,75 @@
-<h1 align="center">Hi 👋, I'm Simran Arora</h1>
+<!-- ========================================================= -->
 
-<h3 align="center">
-  🤖 Aspiring AI/ML Engineer &nbsp;•&nbsp; 💻 Full-Stack Developer &nbsp;•&nbsp; 🇮🇳 India
-</h3>
+<!--                        HERO SECTION                       -->
 
-<p align="center">
-  <a href="https://github.com/simrann7">
-    <img src="https://komarev.com/ghpvc/?username=simrann7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/simrann7?tab=followers">
-    <img src="https://img.shields.io/github/followers/simrann7?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/simrann7?tab=repositories">
-    <img src="https://img.shields.io/github/stars/simrann7?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
-  </a>
-</p>
+<!-- ========================================================= -->
 
-<p align="center">
-  <a href="https://github.com/simrann7">
-    <img src="https://img.shields.io/badge/Open%20Source-000?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
-  </a>
-  <a href="mailto:simranarora23072008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-</p>
+<div align="center">
 
----
+# 👋 Hi, I'm **Simran Arora**
 
-## 👩‍💻 About Me
+### 🤖 Aspiring AI/ML Engineer · 💻 Full-Stack Developer · 🇮🇳 India
 
-```text
-🎯 Focus        → AI / Machine Learning + Full-Stack Development
-🌱 Learning     → C++
-💡 Interested   → Artificial Intelligence, Data Science & Modern Web Apps
-⚡ Building     → Practical projects that combine AI with real-world applications
-🤝 Open to      → Collaboration, open-source projects & interesting ideas
-```
+<br>
 
-* 🔭 Currently exploring **AI/ML, Data Science and Full-Stack Development**
-* 🌱 Currently learning **C++**
-* 💬 Ask me about **React, React Native, JavaScript, Python, AI & Data Science**
-* 👯 Looking to collaborate on **interesting open-source projects**
-* 🚀 I enjoy turning ideas into **useful, practical applications**
-* 📫 Reach me at **[simranarora23072008@gmail.com](mailto:simranarora23072008@gmail.com)**
+<a href="https://github.com/simrann7">
+<img src="https://img.shields.io/badge/GitHub-simrann7-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:simranarora23072008@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=simrann7&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+<!-- ========================================================= -->
 
-### 👨‍💻 Languages
+<!--                         ABOUT                             -->
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-</p>
+<!-- ========================================================= -->
 
-### ⚛️ Frontend & Mobile
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-</p>
-
-### 🧠 AI / Data Science
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</p>
-
-### ⚙️ Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-  <i>Some of the projects I'm building and experimenting with.</i>
-</p>
-
-<!-- Replace the repository names below with your actual best repositories -->
+## 🧠 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🔥 Project 01
+### Hey there! 👋
 
-**Your Project Name**
+I'm **Simran**, an aspiring **AI/ML Engineer and Full-Stack Developer** who enjoys turning ideas into practical applications.
 
-Short description of what the project does and the problem it solves.
+I'm currently exploring:
 
-**Tech:** `React` `JavaScript` `Python`
+* 🤖 Artificial Intelligence & Machine Learning
+* 📊 Data Science
+* 🌐 Full-Stack Development
+* 📱 React Native
+* 🧠 C++ & Problem Solving
+* 🚀 Open Source
 
-<a href="https://github.com/simrann7">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Project 02
-
-**Your Project Name**
-
-Short description of your AI/ML or data-science project.
-
-**Tech:** `Python` `AI` `Machine Learning`
-
-<a href="https://github.com/simrann7">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Project 03
-
-**Your Project Name**
-
-Short description of your mobile/full-stack application.
-
-**Tech:** `React Native` `JavaScript` `API`
-
-<a href="https://github.com/simrann7">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
+I enjoy learning new technologies, building projects and continuously improving my development skills.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🌐 Project 04
-
-**Your Project Name**
-
-Short description of another project you want recruiters to notice.
-
-**Tech:** `React` `Node.js` `MongoDB`
-
-<a href="https://github.com/simrann7">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
+```text
+╭──────────────────────────────╮
+│       CURRENT FOCUS          │
+├──────────────────────────────┤
+│ 🤖 AI / ML                  │
+│ 📊 Data Science             │
+│ 🌐 Full Stack               │
+│ 📱 Mobile Development       │
+│ 🧠 C++                      │
+│ 🚀 Open Source              │
+╰──────────────────────────────╯
+```
 
 </td>
 </tr>
@@ -163,116 +77,292 @@ Short description of another project you want recruiters to notice.
 
 ---
 
-# 📊 GitHub Analytics
+# 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simrann7&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrann7&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages"/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html&theme=dark" />
+
+</p>
+
+### ⚛️ Frameworks & Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb&theme=dark" />
+
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel&theme=dark" />
+
 </p>
 
 ---
 
-## ⭐ Repository & Contribution Overview
+# 🚀 Featured Projects
 
 <p align="center">
-
-<img src="https://img.shields.io/github/stars/simrann7?style=for-the-badge&logo=github&label=TOTAL%20STARS" alt="Total Stars"/>
-
-<img src="https://img.shields.io/github/followers/simrann7?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
-
-<img src="https://img.shields.io/github/commit-activity/y/simrann7/simrann7?style=for-the-badge&logo=github&label=PROFILE%20COMMITS" alt="Commits"/>
-
+  <i>A few projects I'm proud of and continuously improving.</i>
 </p>
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI / ML Project
+
+### Your AI Project
+
+> An AI/ML project focused on solving a practical problem using machine learning and data-driven techniques.
+
+**Tech Stack**
+
+`Python` `AI` `Machine Learning`
+
+<br>
+
+<a href="https://github.com/simrann7">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 Full-Stack Project
+
+### Your Full-Stack Project
+
+> A modern full-stack application designed with a focus on usability, performance and clean architecture.
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB`
+
+<br>
+
+<a href="https://github.com/simrann7">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📱 Mobile Project
+
+### Your React Native Project
+
+> A mobile application built with React Native and modern JavaScript technologies.
+
+**Tech Stack**
+
+`React Native` `JavaScript` `Expo`
+
+<br>
+
+<a href="https://github.com/simrann7">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 Data Project
+
+### Your Data Science Project
+
+> A data-focused project exploring analysis, visualization and intelligent insights.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy`
+
+<br>
+
+<a href="https://github.com/simrann7">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-Dynamic-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simrann7&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simrann7&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simrann7&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://github.com/simrann7/simrann7/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-</p>
-
----
-
-# 💻 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/simrann7">
-    <img src="https://github-readme-stats.vercel.app/api?username=simrann7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&custom_title=Simran%27s%20GitHub%20Activity" alt="GitHub Activity"/>
+  <a href="https://github.com/simrann7?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 🎯 Current Focus
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=simrann7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrann7&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=simrann7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&custom_title=Contribution%20Overview" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="./profile/streak.svg" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="./profile/trophy.svg" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="./profile/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simrann7&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+# 💎 GitHub Highlights
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+### 📦
+
+**Repositories**
+
+**Building & Learning**
+
+</td>
+
+<td align="center" width="25%">
+
+### ⭐
+
+**Stars**
+
+**From the community**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔥
+
+**Streak**
+
+**Consistency matters**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Focus**
+
+**AI + Full Stack**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌱 Currently Learning
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🤖 Artificial Intelligence & Machine Learning              │
-│   🌐 Full-Stack Web Development                             │
-│   📱 React Native Development                               │
-│   📊 Data Science                                           │
-│   🧠 Problem Solving & C++                                  │
-│   🚀 Open Source & Real-World Projects                      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+AI / ML
+   ↓
+Data Science
+   ↓
+Full-Stack Development
+   ↓
+React Native
+   ↓
+C++ & Problem Solving
 ```
 
 ---
 
 # 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/simrann7">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:simranarora23072008@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+### ✨ Build. Learn. Improve. Repeat. ✨
+
+</div>
 
 ---
 
-<p align="center">
-  <b>✨ Building • Learning • Experimenting • Improving ✨</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Code is not just about solving problems — it's about creating possibilities."</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
-<p align="center">
-  ⭐ If you find something interesting here, consider giving the repository a star!
-</p>
+</div>
